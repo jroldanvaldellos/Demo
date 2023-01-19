@@ -1,4 +1,4 @@
-Lab setup for Network Automation Webinar
+Lab setup for Network Automation Demo
 ========================================
 
 Management Host / Ansible Host
