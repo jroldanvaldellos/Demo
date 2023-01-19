@@ -150,5 +150,5 @@
   #
   - copy: content="{{ out.existing }}" dest={{ data_dir }}consumer-contracts-output.json
 
-# This is the end, my friend
+# This is the end, hope you liked it 
 ...
